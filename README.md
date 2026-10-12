@@ -1,6 +1,6 @@
-# Oriol Dellá
+# Data Engineer
 
-**Freelance Data Engineer** · Microsoft Fabric, Power BI, Databricks  
+**Freelance** · Microsoft Fabric, Power BI, Databricks  
 Barcelona, Spain · Remote
 
 I build data platforms end to end: ingestion, modeling, governance and BI.
